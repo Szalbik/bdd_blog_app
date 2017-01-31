@@ -12,4 +12,10 @@ Changelog:
     * Build features to make test pass one by one
     * Once the test passes without errors - merge branch with master branch
     
-**2**
+**2. Listing articles**
+
+    * Create branch
+    * Create 2 articles to display
+    
+    * List  he 2 articles
+    
